@@ -1,35 +1,77 @@
 {
   "project_info": {
-    "project_number": "218014340651",
-    "firebase_url": "https://casanovo-e6a80.firebaseio.com",
-    "project_id": "casanovo-e6a80",
-    "storage_bucket": "casanovo-e6a80.appspot.com"
+    "project_number": "943153451077",
+    "project_id": "app1-c1062",
+    "storage_bucket": "app1-c1062.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:218014340651:android:5e6ccc359ce8542751fc6e",
+        "mobilesdk_app_id": "1:943153451077:android:beadbf43052930225c932c",
         "android_client_info": {
-          "package_name": "com.flutterfairy.showcasing_flutter"
+          "package_name": "com.devscore.flutter_tutorials"
         }
       },
       "oauth_client": [
         {
-          "client_id": "218014340651-gmnf7n5fibnqp6sirf89s46ccafkva2a.apps.googleusercontent.com",
+          "client_id": "943153451077-sfo6ffpnqlspfh8vn0phmvt4j3ak6f2a.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC3vAYSL7yiYwMUTBdH41kmo9asA1sWjck"
+          "current_key": "AIzaSyAxBCLVsUBLjoYHZDajS69OgPiyvne-w4U"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "218014340651-gmnf7n5fibnqp6sirf89s46ccafkva2a.apps.googleusercontent.com",
+              "client_id": "943153451077-sfo6ffpnqlspfh8vn0phmvt4j3ak6f2a.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "943153451077-5vqeq14ff6ev40c6km4hebv5kdp0c1fd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.neerddev.flutterTutorials"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943153451077:android:1bec908f73c49c245c932c",
+        "android_client_info": {
+          "package_name": "com.example.rewardapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943153451077-sfo6ffpnqlspfh8vn0phmvt4j3ak6f2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxBCLVsUBLjoYHZDajS69OgPiyvne-w4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943153451077-sfo6ffpnqlspfh8vn0phmvt4j3ak6f2a.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "943153451077-5vqeq14ff6ev40c6km4hebv5kdp0c1fd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.neerddev.flutterTutorials"
+              }
             }
           ]
         }
